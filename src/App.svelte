@@ -1,8 +1,7 @@
 <script>
 	import NavBar from './components/NavBar.svelte';
 	import Carousel from './components/Carousel.svelte';
-	//import Carousel from '../components/Carousel.svelte';
-
+	
 	let navBarItems = [
 		{ label: 'How To Play', href: '#' },
 		{ label: 'Rank Board', href: '#' },
