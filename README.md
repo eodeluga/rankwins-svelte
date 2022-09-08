@@ -4,7 +4,7 @@ This is a basic project prototype to test the Svelte framework for consideration
 
 # How to run
 ```
-npm run i
+npm install
 npm run build
 npm run dev
 ```
